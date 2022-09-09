@@ -25,6 +25,7 @@ header {
 
 .cards-section {
   background-color: #eee;
+  padding-bottom: 20px;
 }
 .cards-section .cards {
   display: grid;
